@@ -73,4 +73,4 @@ elif k == 13:
 ```
 
 # Result
-[![Watch the result video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the result video](https://youtu.be/xlSjDU0XAvw.png)](https://youtu.be/xlSjDU0XAvw)
