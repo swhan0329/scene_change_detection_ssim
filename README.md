@@ -18,7 +18,7 @@ I need to recognize number 1, 2, 3 for preset information. So I trained only 1, 
 
 ![image][red_box]
 
-[red_box]: https://opencv-python.readthedocs.io/en/latest/_images/image015.png "Red box in the image"
+[red_box]: https://github.com/swhan0329/scene_change_detection_ssim/blob/main/red_box.PNG?raw=true "Red box in the image"
 
 2. Compare the two scenes using the SSIM metric. You can get the SSIM metric using skimage libarary.
 
