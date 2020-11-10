@@ -17,6 +17,7 @@ I need to recognize number 1, 2, 3 for preset information. So I trained only 1, 
 1. Crop the specific area. I use red box area in the below image.
 
 ![image][red_box]
+
 [red_box]: https://opencv-python.readthedocs.io/en/latest/_images/image015.png "Red box in the image"
 
 2. Compare the two scenes using the SSIM metric. You can get the SSIM metric using skimage libarary.
@@ -31,6 +32,7 @@ pcssim = ssim(prcrop_input, crcrop_input, multichannel=True)
 1. You should train this code firstly using below an image and code.
 
 ![image][train_image]
+
 [train_image]: https://opencv-python.readthedocs.io/en/latest/_images/image015.png "Image for the training"
 
 ```bash
