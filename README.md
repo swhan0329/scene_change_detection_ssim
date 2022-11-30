@@ -71,6 +71,3 @@ elif k == 13:
     print("pass for None sign")
     pass
 ```
-
-# Result
-[![Video Label](http://img.youtube.com/vi/xlSjDU0XAvw/0.jpg)](https://youtu.be/xlSjDU0XAvw?t=0s)
